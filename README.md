@@ -1,2 +1,2 @@
-# localwwebui
+# localwebui
 Openwebui LOCAL
